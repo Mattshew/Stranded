@@ -1,0 +1,94 @@
+﻿  BoundingBox.cpp
+..\BoundingBox.cpp(158): warning C4244: 'argument': conversion from 'float' to 'const unsigned __int64', possible loss of data
+..\BoundingBox.cpp(198): warning C4267: 'argument': conversion from 'size_t' to 'GLsizei', possible loss of data
+  OBJObject.cpp
+..\OBJObject.cpp(201): warning C4267: 'argument': conversion from 'size_t' to 'GLsizei', possible loss of data
+  Skybox.cpp
+  Terrain.cpp
+..\Terrain.cpp(33): warning C4244: 'argument': conversion from 'float' to 'unsigned int', possible loss of data
+..\Terrain.cpp(93): warning C4244: 'argument': conversion from 'float' to 'unsigned int', possible loss of data
+..\Terrain.cpp(94): warning C4244: 'argument': conversion from 'float' to 'unsigned int', possible loss of data
+..\Terrain.cpp(95): warning C4244: 'argument': conversion from 'float' to 'unsigned int', possible loss of data
+..\Terrain.cpp(97): warning C4244: 'argument': conversion from 'float' to 'unsigned int', possible loss of data
+..\Terrain.cpp(98): warning C4244: 'argument': conversion from 'float' to 'unsigned int', possible loss of data
+..\Terrain.cpp(99): warning C4244: 'argument': conversion from 'float' to 'unsigned int', possible loss of data
+..\Terrain.cpp(114): warning C4244: 'argument': conversion from 'float' to 'const unsigned __int64', possible loss of data
+..\Terrain.cpp(115): warning C4244: 'argument': conversion from 'float' to 'const unsigned __int64', possible loss of data
+..\Terrain.cpp(116): warning C4244: 'argument': conversion from 'float' to 'const unsigned __int64', possible loss of data
+..\Terrain.cpp(117): warning C4244: 'argument': conversion from 'float' to 'const unsigned __int64', possible loss of data
+..\Terrain.cpp(118): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+..\Terrain.cpp(120): warning C4244: 'argument': conversion from 'float' to 'const unsigned __int64', possible loss of data
+..\Terrain.cpp(126): warning C4244: 'argument': conversion from 'float' to 'const unsigned __int64', possible loss of data
+..\Terrain.cpp(129): warning C4244: 'argument': conversion from 'float' to 'const unsigned __int64', possible loss of data
+..\Terrain.cpp(130): warning C4244: 'argument': conversion from 'float' to 'const unsigned __int64', possible loss of data
+..\Terrain.cpp(131): warning C4244: 'argument': conversion from 'float' to 'const unsigned __int64', possible loss of data
+..\Terrain.cpp(132): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+..\Terrain.cpp(136): warning C4244: 'argument': conversion from 'float' to 'const unsigned __int64', possible loss of data
+..\Terrain.cpp(137): warning C4244: 'argument': conversion from 'float' to 'const unsigned __int64', possible loss of data
+..\Terrain.cpp(138): warning C4244: 'argument': conversion from 'float' to 'const unsigned __int64', possible loss of data
+..\Terrain.cpp(139): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+..\Terrain.cpp(143): warning C4244: 'argument': conversion from 'float' to 'const unsigned __int64', possible loss of data
+..\Terrain.cpp(144): warning C4244: 'argument': conversion from 'float' to 'const unsigned __int64', possible loss of data
+..\Terrain.cpp(145): warning C4244: 'argument': conversion from 'float' to 'const unsigned __int64', possible loss of data
+..\Terrain.cpp(146): warning C4244: 'argument': conversion from 'float' to 'const unsigned __int64', possible loss of data
+..\Terrain.cpp(147): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+..\Terrain.cpp(149): warning C4244: 'argument': conversion from 'float' to 'const unsigned __int64', possible loss of data
+..\Terrain.cpp(155): warning C4244: 'argument': conversion from 'float' to 'const unsigned __int64', possible loss of data
+..\Terrain.cpp(157): warning C4244: 'argument': conversion from 'float' to 'const unsigned __int64', possible loss of data
+..\Terrain.cpp(158): warning C4244: 'argument': conversion from 'float' to 'const unsigned __int64', possible loss of data
+..\Terrain.cpp(159): warning C4244: 'argument': conversion from 'float' to 'const unsigned __int64', possible loss of data
+..\Terrain.cpp(160): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+..\Terrain.cpp(163): warning C4244: 'argument': conversion from 'float' to 'const unsigned __int64', possible loss of data
+..\Terrain.cpp(164): warning C4244: 'argument': conversion from 'float' to 'const unsigned __int64', possible loss of data
+..\Terrain.cpp(165): warning C4244: 'argument': conversion from 'float' to 'const unsigned __int64', possible loss of data
+..\Terrain.cpp(166): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+..\Terrain.cpp(169): warning C4244: 'argument': conversion from 'float' to 'const unsigned __int64', possible loss of data
+..\Terrain.cpp(170): warning C4244: 'argument': conversion from 'float' to 'const unsigned __int64', possible loss of data
+..\Terrain.cpp(171): warning C4244: 'argument': conversion from 'float' to 'const unsigned __int64', possible loss of data
+..\Terrain.cpp(172): warning C4244: 'argument': conversion from 'float' to 'const unsigned __int64', possible loss of data
+..\Terrain.cpp(173): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+..\Terrain.cpp(175): warning C4244: 'argument': conversion from 'float' to 'const unsigned __int64', possible loss of data
+..\Terrain.cpp(209): warning C4244: 'argument': conversion from 'float' to 'const unsigned __int64', possible loss of data
+..\Terrain.cpp(210): warning C4244: 'argument': conversion from 'float' to 'const unsigned __int64', possible loss of data
+..\Terrain.cpp(211): warning C4244: 'argument': conversion from 'float' to 'const unsigned __int64', possible loss of data
+..\Terrain.cpp(212): warning C4244: 'argument': conversion from 'float' to 'const unsigned __int64', possible loss of data
+..\Terrain.cpp(218): warning C4244: 'argument': conversion from 'float' to 'const unsigned __int64', possible loss of data
+..\Terrain.cpp(220): warning C4244: 'argument': conversion from 'float' to 'const unsigned __int64', possible loss of data
+..\Terrain.cpp(234): warning C4244: 'argument': conversion from 'float' to 'const unsigned __int64', possible loss of data
+..\Terrain.cpp(235): warning C4244: 'argument': conversion from 'float' to 'const unsigned __int64', possible loss of data
+..\Terrain.cpp(236): warning C4244: 'argument': conversion from 'float' to 'const unsigned __int64', possible loss of data
+..\Terrain.cpp(237): warning C4244: 'argument': conversion from 'float' to 'const unsigned __int64', possible loss of data
+..\Terrain.cpp(238): warning C4244: 'argument': conversion from 'float' to 'const unsigned __int64', possible loss of data
+..\Terrain.cpp(239): warning C4244: 'argument': conversion from 'float' to 'const unsigned __int64', possible loss of data
+..\Terrain.cpp(255): warning C4244: 'argument': conversion from 'float' to 'const unsigned __int64', possible loss of data
+..\Terrain.cpp(257): warning C4244: 'argument': conversion from 'float' to 'const unsigned __int64', possible loss of data
+..\Terrain.cpp(258): warning C4244: 'argument': conversion from 'float' to 'const unsigned __int64', possible loss of data
+..\Terrain.cpp(260): warning C4244: 'argument': conversion from 'float' to 'const unsigned __int64', possible loss of data
+..\Terrain.cpp(261): warning C4244: 'argument': conversion from 'float' to 'const unsigned __int64', possible loss of data
+..\Terrain.cpp(297): warning C4267: 'argument': conversion from 'size_t' to 'GLsizei', possible loss of data
+..\Terrain.cpp(311): warning C4244: 'argument': conversion from 'float' to 'unsigned int', possible loss of data
+  WaterQuad.cpp
+..\WaterQuad.cpp(20): warning C4244: 'argument': conversion from 'float' to 'unsigned int', possible loss of data
+..\WaterQuad.cpp(21): warning C4244: 'argument': conversion from 'float' to 'unsigned int', possible loss of data
+..\WaterQuad.cpp(22): warning C4244: 'argument': conversion from 'float' to 'unsigned int', possible loss of data
+..\WaterQuad.cpp(24): warning C4244: 'argument': conversion from 'float' to 'unsigned int', possible loss of data
+..\WaterQuad.cpp(25): warning C4244: 'argument': conversion from 'float' to 'unsigned int', possible loss of data
+..\WaterQuad.cpp(26): warning C4244: 'argument': conversion from 'float' to 'unsigned int', possible loss of data
+..\WaterQuad.cpp(185): warning C4267: 'argument': conversion from 'size_t' to 'GLsizei', possible loss of data
+  Window.cpp
+..\Window.cpp(352): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+..\Window.cpp(353): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+..\Window.cpp(356): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+..\Window.cpp(357): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+..\Window.cpp(370): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+..\Window.cpp(374): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+..\Window.cpp(397): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+..\Window.cpp(386): warning C4101: 'pixel_diff': unreferenced local variable
+..\Window.cpp(387): warning C4101: 'zoom_factor': unreferenced local variable
+  main.cpp
+  Generating code
+  34 of 838 functions ( 4.1%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    33 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  GLFWStarterProject.vcxproj -> C:\Users\Matthew\Documents\_UCSD\CSE 167\CSE167Final\x64\Release\GLFWStarterProject.exe

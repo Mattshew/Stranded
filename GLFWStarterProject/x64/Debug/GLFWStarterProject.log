@@ -1,0 +1,17 @@
+﻿  Window.cpp
+c:\users\matthew\documents\_ucsd\cse 167\cse167final\window.cpp(197): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\matthew\documents\_ucsd\cse 167\cse167final\window.cpp(198): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\matthew\documents\_ucsd\cse 167\cse167final\window.cpp(201): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\matthew\documents\_ucsd\cse 167\cse167final\window.cpp(202): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\matthew\documents\_ucsd\cse 167\cse167final\window.cpp(216): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\matthew\documents\_ucsd\cse 167\cse167final\window.cpp(220): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\matthew\documents\_ucsd\cse 167\cse167final\window.cpp(243): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\matthew\documents\_ucsd\cse 167\cse167final\window.cpp(232): warning C4101: 'pixel_diff': unreferenced local variable
+c:\users\matthew\documents\_ucsd\cse 167\cse167final\window.cpp(233): warning C4101: 'zoom_factor': unreferenced local variable
+  WaterQuad.cpp
+c:\users\matthew\documents\_ucsd\cse 167\cse167final\waterquad.cpp(16): error C2065: 'quadVertices': undeclared identifier
+  Generating Code...
+  Compiling...
+  Skybox.cpp
+  main.cpp
+  Generating Code...
